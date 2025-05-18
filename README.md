@@ -28,19 +28,6 @@ npm install
 npm run dev
 Access the application at http://localhost:5173 (or the port specified in your frontend configuration)
 
-Project Structure
-ecommerce-admin-dashboard/
-├── frontend/               # Vue.js frontend
-│   ├── public/            # Static files
-│   ├── src/               # Application source code
-│   │   ├── assets/        # Images, styles
-│   │   ├── components/    # Reusable components
-│   │   ├── router/        # Vue router configuration
-│   │   ├── stores/        # Pinia stores (state management)
-│   │   ├── views/         # Page components
-│   │   └── main.js        # Vue application entry point
-│   └── package.json       # Frontend dependenciesile
-└── screenshots/          # Application screenshots
 Navigating the Dashboard
 Revenue Analysis Page
 
